@@ -15,8 +15,12 @@ Este método genera diversas dificultades, tales como:
 Por estas razones, la institución necesita implementar un software que modernice y optimice este proceso. Con el nuevo sistema se busca:
 
 •	Automatizar el registro de asistencia de los docentes.
+
 •	Permitir al coordinador y personal administrativo consultar y filtrar registros por fecha, docente, jornada o programa académico.
+
 •	Generar reportes de asistencia individuales o generales en rangos de fecha definidos (por ejemplo, semanal o mensual).
+
 •	Almacenar la información en una base de datos centralizada, que permita realizar consultas rápidas, seguras y confiables.
+
 De esta manera, el software de asistencia docente solucionará los problemas actuales de control y organización, mejorará la trazabilidad de los registros y optimizará el tiempo destinado a la gestión académica y administrativa.
 
